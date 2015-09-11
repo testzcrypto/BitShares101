@@ -1,4 +1,4 @@
-BitShares 101
+Preface
 =======
 
 Bitcoin did for money what I believe Bitshares will do for business. In the very near future we will see the status quo of business operations transformed into a decentralized and trustless environment that functions more efficiently and fairly than any of the world's preceding models. My name is Max Wright, a crypto-currency author, investor, and evangelist. I wrote this book to give you a base-level understanding of how this new system will function, and how you can make it work for you. Welcome to Bitshares 101.
